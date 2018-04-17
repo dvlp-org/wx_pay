@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\dvlp\wx_pay\app\libs\libammsdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c2f29c05b35e8c8713be2b81c41cf18f98b64a">
+        <dex dex="F:\dvlp\wx_pay\app\build\intermediates\pre-dexed\debug\libammsdk_e1ecc090b4d432b4cf2c997d524a7d9120f809dc.jar" />
+    </item>
+
+</items>
